@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://gulpjs.com">
-    <img height="257" width="114" src="">
+    <img  src="https://github.com/dalcong2life/gulp-seminar/blob/master/src/images/gulp01.png?raw=true">
   </a>
 </p>
 
