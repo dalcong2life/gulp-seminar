@@ -32,7 +32,7 @@ gulp.task('uglify', function () {
         .bundle()
         .pipe(source('main.js'))
         .pipe(buffer())
-        .pipe(uglify())
+        //.pipe(uglify())
         .pipe(gulp.dest('dist/js'))
         .pipe(browserSync.reload({stream: true}));
 });

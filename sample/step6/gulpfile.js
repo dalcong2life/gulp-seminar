@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var concat = require('gulp-minify-css');
+var minifycss = require('gulp-minify-css');
 
 gulp.task('minifycss', function () {
     return gulp.src('src/css/main.css')

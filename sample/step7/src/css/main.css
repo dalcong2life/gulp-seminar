@@ -1,0 +1,15 @@
+@import "dep.css";
+
+/* dummy class a */
+a {
+    font-size: 1em;
+}
+
+h1 {
+    border: dashed 1px ;
+}
+
+h2 {
+    font-size: 1em;
+}
+
